@@ -14,6 +14,13 @@ Debido al peso del paquete de instalación, el archivo se encuentra alojado en O
 
 ---
 
+## 📺 Video Demo
+Mira el video de demostración para conocer las capacidades de **EDMonitor** en acción:
+
+[![Video Demo](https://img.youtube.com/vi/mTLfupAQZp0/maxresdefault.jpg)](https://youtu.be/mTLfupAQZp0)
+
+---
+
 ## �🛠️ Requisitos del Sistema
 - **Sistema Operativo:** Windows 8 o superior (x64 recomendado).
 - **Espacio en Disco:** ~200 MB libres.
